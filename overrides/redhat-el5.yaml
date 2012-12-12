@@ -1,0 +1,3 @@
+# A list of Buzzy package names mapped to the corresponding RHEL5 package.
+native:
+  pkg-config: pkgconfig
