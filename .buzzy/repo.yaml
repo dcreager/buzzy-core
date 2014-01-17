@@ -1,4 +1,8 @@
 native:
+  # A list of Buzzy package names mapped to the corresponding Debian package.
+  debian:
+    pcre: libpcre3-dev
+
   # A list of Buzzy package names mapped to the corresponding RHEL package.
   rpm:
     pkg-config: pkgconfig
