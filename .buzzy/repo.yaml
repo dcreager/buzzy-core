@@ -2,6 +2,7 @@ native:
   # A list of Buzzy package names mapped to the corresponding Debian package.
   debian:
     pcre: libpcre3-dev
+    xz: liblzma-dev
     zlib: zlib1g
 
   # A list of Buzzy package names mapped to the corresponding RHEL package.
