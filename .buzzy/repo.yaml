@@ -7,6 +7,7 @@ native:
 
   # A list of Buzzy package names mapped to the corresponding RHEL package.
   rpm:
+    perl-dbi: perl-DBI
     pkg-config: pkgconfig
 
 preinstalled:
