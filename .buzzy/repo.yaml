@@ -2,6 +2,7 @@ native:
   # A list of Buzzy package names mapped to the corresponding Debian package.
   debian:
     glib2: libglib2.0-dev
+    gnutls: libgnutls-dev
     pcre: libpcre3-dev
     xz: liblzma-dev
     zlib: zlib1g
