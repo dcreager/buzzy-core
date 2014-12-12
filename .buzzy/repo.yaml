@@ -4,6 +4,7 @@ native:
     glib2: libglib2.0-dev
     gnutls: libgnutls-dev
     lzo: liblzo2-dev
+    openssl: libssl-dev
     pcre: libpcre3-dev
     xz: liblzma-dev
     zlib: zlib1g
