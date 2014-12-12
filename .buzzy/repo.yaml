@@ -6,6 +6,7 @@ native:
     lzo: liblzo2-dev
     openssl: libssl-dev
     pcre: libpcre3-dev
+    perl-dbi: libdbi-perl
     xz: liblzma-dev
     zlib: zlib1g
 
