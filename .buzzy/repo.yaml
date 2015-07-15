@@ -8,7 +8,7 @@ native:
     pcre: libpcre3-dev
     perl-dbi: libdbi-perl
     xz: liblzma-dev
-    zlib: zlib1g
+    zlib: zlib1g-dev
 
   # A list of Buzzy package names mapped to the corresponding RHEL package.
   rpm:
